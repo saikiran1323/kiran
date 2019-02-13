@@ -1,0 +1,115 @@
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
+ERROR - ORA-01400: cannot insert NULL into ("SYSTEM"."HOTEL"."HOTEL_NAME")
+
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+ERROR - ORA-00904: "USER_NAME": invalid identifier
+
+INFO - Obtained Connection
+ERROR - ORA-00904: "USER_NAME": invalid identifier
+
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
+ERROR - ORA-12899: value too large for column "SCOTT"."HOTEL"."EMAIL" (actual: 17, maximum: 15)
+
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - customer
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
+INFO - Obtained Connection
+INFO - admin
+INFO - Obtained Connection
